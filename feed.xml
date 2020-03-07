@@ -1,4 +1,504 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://build.university/feed.xml" rel="self" type="application/atom+xml" /><link href="https://build.university/" rel="alternate" type="text/html" /><updated>2020-02-20T03:12:15+08:00</updated><id>https://build.university/feed.xml</id><title type="html">Build University</title><subtitle>A maker's journey, turned into free education for all.</subtitle><author><name>Kathy Li</name></author><entry><title type="html">Welcome to Build University</title><link href="https://build.university/news/2020/02/16/welcome-to-build-university.html" rel="alternate" type="text/html" title="Welcome to Build University" /><published>2020-02-16T02:20:15+08:00</published><updated>2020-02-16T02:20:15+08:00</updated><id>https://build.university/news/2020/02/16/welcome-to-build-university</id><content type="html" xml:base="https://build.university/news/2020/02/16/welcome-to-build-university.html">&lt;p&gt;Year 2020 has NOT been off to a good start for most of the world, which is why I am now more motivated than ever to squeeze my finite time on Earth to create useful tech.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://build.university/feed.xml" rel="self" type="application/atom+xml" /><link href="https://build.university/" rel="alternate" type="text/html" /><updated>2020-03-07T19:29:18+08:00</updated><id>https://build.university/feed.xml</id><title type="html">Build University</title><subtitle>A maker's journey, turned into free education for all.</subtitle><author><name>Kathy Li</name></author><entry><title type="html">How I Built a Startup in One Day</title><link href="https://build.university/news/2020/03/05/building-a-startup-in-one-day.html" rel="alternate" type="text/html" title="How I Built a Startup in One Day" /><published>2020-03-05T12:20:15+08:00</published><updated>2020-03-05T12:20:15+08:00</updated><id>https://build.university/news/2020/03/05/building-a-startup-in-one-day</id><content type="html" xml:base="https://build.university/news/2020/03/05/building-a-startup-in-one-day.html">&lt;p&gt;Far from being someone who enjoys competing with others, I somehow like to challenge myself a lot.&lt;/p&gt;
+
+&lt;p&gt;Merely a day after I got myself out of this &lt;a href=&quot;https://youtu.be/WyJqxL7Nm0M&quot;&gt;“2-Hour Movie Challenge”&lt;/a&gt; that I arbitrary created for Leap Day 2020, here I am again, digging another hole for yours truly.&lt;/p&gt;
+
+&lt;p&gt;But I can explain.&lt;/p&gt;
+
+&lt;p&gt;Every time I want to learn (or re-learn) a tech development skill, I like to proceed by building a full-fledged app around it. In fact, this also partly accounts for why I have such a sizable app repertoire for just a one-person dev team.&lt;/p&gt;
+
+&lt;p&gt;Earlier today I was hoping to brush up on my PHP.&lt;/p&gt;
+
+&lt;p&gt;Ergo, once again, a new product ensued.&lt;/p&gt;
+
+&lt;p&gt;Thus began my &lt;strong&gt;“1-Day Startup Challenge.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Somewhat coincidentally, my tinkering around with my Twitter profile during the movie challenge inspired me to build something that involves check ✅ or cross ❎ marks.&lt;/p&gt;
+
+&lt;p&gt;One thing leads to another, I built a voting app.&lt;/p&gt;
+
+&lt;p&gt;And my initial tech “stack” is super straightforward.&lt;/p&gt;
+
+&lt;h2 id=&quot;gmail&quot;&gt;Gmail&lt;/h2&gt;
+
+&lt;p&gt;As this experiment would likely require some of the G Suite tools, it made sense to sign up for a new Google account.&lt;/p&gt;
+
+&lt;h2 id=&quot;social-media&quot;&gt;Social Media&lt;/h2&gt;
+
+&lt;p&gt;With this new email address, I was able to sign up for new &lt;strong&gt;Twitter&lt;/strong&gt; and &lt;strong&gt;Instagram&lt;/strong&gt; accounts.&lt;/p&gt;
+
+&lt;p&gt;Handle: “whowouldyouvote”&lt;/p&gt;
+
+&lt;p&gt;I also created a new &lt;strong&gt;Facebook Page&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_001.png&quot; title=&quot;Facebook Page&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_001.png&quot; alt=&quot;Facebook Page&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Facebook Page
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;domain-name&quot;&gt;Domain Name&lt;/h2&gt;
+
+&lt;p&gt;In this Internet-heavy age, every startup should ideally have its own domain name. This voting app is no exception.&lt;/p&gt;
+
+&lt;p&gt;Knowing that the “whowouldyouvote” handle was still available, I went ahead and acquired whowouldyouvote.com.&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_002.png&quot; title=&quot;Yet another domain acquisition of mine.&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_002.png&quot; alt=&quot;Yet another domain acquisition of mine.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Yet another domain acquisition of mine.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;web-app&quot;&gt;Web App&lt;/h2&gt;
+&lt;h3 id=&quot;or-do-i-really-need-one&quot;&gt;(Or do I really need one?)&lt;/h3&gt;
+
+&lt;p&gt;Here is where my approach diverted a little.&lt;/p&gt;
+
+&lt;p&gt;The original plan was to build a web application where users can vote on trending topics.&lt;/p&gt;
+
+&lt;p&gt;This would offer an added benefit for me to practice PHP, which would be used to send vote counts from the front-end back to whatever server I might use.&lt;/p&gt;
+
+&lt;p&gt;But as I was signing up for a new Twitter account, it occurred to me that my minimum viable product (MVP) could be further simplified.&lt;/p&gt;
+
+&lt;p&gt;In order to launch even quicker for the sake of testing the waters, I wouldn’t even need to build an app from scratch.&lt;/p&gt;
+
+&lt;p&gt;I could just leverage &lt;strong&gt;Twitter’s built-in poll feature&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This means I was literally just minutes away from being ready to launch!&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_003.png&quot; title=&quot;Started from an empty profile&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_003.png&quot; alt=&quot;Started from an empty profile&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Started from an empty profile
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_004.png&quot; title=&quot;Created a poll Tweet&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_004.png&quot; alt=&quot;Created a poll Tweet&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Created a poll Tweet
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_005.png&quot; title=&quot;The poll Tweet&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_005.png&quot; alt=&quot;The poll Tweet&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;The poll Tweet
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_006.png&quot; title=&quot;Which could be embedded into my new site&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_006.png&quot; alt=&quot;Which could be embedded into my new site&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Which could be embedded into my new site
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_007.png&quot; title=&quot;Embedding code&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_007.png&quot; alt=&quot;Embedding code&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Embedding code
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_008.png&quot; title=&quot;Copied to clipboard&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_008.png&quot; alt=&quot;Copied to clipboard&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Copied to clipboard
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;logo-and-icon&quot;&gt;Logo and Icon&lt;/h2&gt;
+
+&lt;p&gt;To move things along, I sidestepped the common time-waster where some founders would spend a lot of resources on perfecting their first logo.
+I basically just repurposed an emoji to be my main logo for now.&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_009.png&quot; title=&quot;Logo&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_009.png&quot; alt=&quot;Logo&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;First pass at the logo
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;github-page&quot;&gt;GitHub Page&lt;/h2&gt;
+
+&lt;p&gt;Now that I no longer needed a dynamic website, I decided to just quickly get a static one-page site up and running, which could then be hosted for free on GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;Thank goodness the new domain that I just bought wasn’t going to be redundant.&lt;/p&gt;
+
+&lt;p&gt;Here’s what I did—I’m including a lot of screenshots here for clarity, but in reality all of the below steps combined only took me several minutes:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Signed up for a GitHub account, using my new email.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_010.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_010.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_011.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_011.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_012.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_012.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_013.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_013.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_014.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_014.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_015.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_015.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_016.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_016.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Created a new repository.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_017.png&quot; title=&quot;For my hosting route, it’s important to end the repository name with: [github.io]&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_017.png&quot; alt=&quot;For my hosting route, it’s important to end the repository name with: [github.io]&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;For my hosting route, it’s important to end the repository name with: [github.io]
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Pushed my one-page static site on GitHub.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_018.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_018.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_019.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_019.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Used GitHub Pages to host the website.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_020.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_020.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_021.png&quot; title=&quot;As of the latest GitHub version, it’s necessary to select a theme for page hosting to work, even if we are not actually using the selected theme.&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_021.png&quot; alt=&quot;As of the latest GitHub version, it’s necessary to select a theme for page hosting to work, even if we are not actually using the selected theme.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;As of the latest GitHub version, it’s necessary to select a theme for page hosting to work, even if we are not actually using the selected theme.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_022.png&quot; title=&quot;Site is up and running!&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_022.png&quot; alt=&quot;Site is up and running!&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Site is up and running!
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Hooked the new site up with my custom domain.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_023.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_023.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_024.png&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_024.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_025.png&quot; title=&quot;Updated my DNS records based on the above help guide.&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_025.png&quot; alt=&quot;Updated my DNS records based on the above help guide.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Updated my DNS records based on the above help guide.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_026.png&quot; title=&quot;Site is still running — now with my custom domain!&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_026.png&quot; alt=&quot;Site is still running — now with my custom domain!&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Site is still running — now with my custom domain!
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Added HTTPS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Literally just by clicking a checkbox.&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_027.png&quot; title=&quot;Without HTTPS&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_027.png&quot; alt=&quot;Without HTTPS&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Without HTTPS
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_028.png&quot; title=&quot;See the difference? Now HTTPS-enabled.&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_028.png&quot; alt=&quot;See the difference? Now HTTPS-enabled.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;See the difference? Now HTTPS-enabled.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/03/05/one-day-startup_029.png&quot; title=&quot;Who would you vote for?&quot;&gt;
+        &lt;img src=&quot;/assets/images/2020/03/05/one-day-startup_029.png&quot; alt=&quot;Who would you vote for?&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;Who would you vote for?
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;That’s it! Challenge complete.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
+
+&lt;p&gt;This exercise did turn out to be my fastest product launch yet, so I would consider this challenge a small success.&lt;/p&gt;
+
+&lt;p&gt;When time allows, I may also see about putting some marketing effort into promoting the site, especially since it is already fully functional and all.&lt;/p&gt;
+
+&lt;p&gt;Technically speaking though, I only ended up writing very little code for the entire project, which is kind of defeating my original purpose of polishing up my PHP and other skills through hands-on app building.&lt;/p&gt;
+
+&lt;p&gt;That being said, I can definitely foresee myself revisiting the project and enhancing it bit by bit —perhaps even turning it into a dynamic app at some point. So I suppose future updates are on the horizon.&lt;/p&gt;
+
+&lt;p&gt;Until next time!&lt;/p&gt;</content><author><name>Kathy Li</name></author><summary type="html">Far from being someone who enjoys competing with others, I somehow like to challenge myself a lot.</summary></entry><entry><title type="html">Welcome to Build University</title><link href="https://build.university/news/2020/02/16/welcome-to-build-university.html" rel="alternate" type="text/html" title="Welcome to Build University" /><published>2020-02-16T02:20:15+08:00</published><updated>2020-02-16T02:20:15+08:00</updated><id>https://build.university/news/2020/02/16/welcome-to-build-university</id><content type="html" xml:base="https://build.university/news/2020/02/16/welcome-to-build-university.html">&lt;p&gt;Year 2020 has NOT been off to a good start for most of the world, which is why I am now more motivated than ever to squeeze my finite time on Earth to create useful tech.&lt;/p&gt;
 
 &lt;p&gt;What I am currently working on, is an app that lets a deaf person communicate with a blind person.&lt;/p&gt;
 
